@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Estimate GATE 2016 Rank | See How Others Performed | Gateoverflow.in</title>
+    <title>Estimate GATE 2021 Rank | See How Others Performed | My Website</title>
     <!-- http://www.webgeekly.com/tutorials/jquery/how-to-switch-css-files-on-the-fly-using-jquery/ -->
     <link id="dynamic-css" rel="stylesheet" type="text/css" href="visualizeMarks-dark.css">
 </head>
@@ -145,11 +145,7 @@
             </div>
         </div>
 
-        <div align="center" class="credits">
-            <div class="tabular"><p>Code:<br/><a href="https://github.com/AgarwalPragy/GATE2016_MarksEvaluator">[Github]</a></p></div>
-            <div class="tabular"><p>Author: Pragy Agarwal<br/><a href="https://www.facebook.com/profile.php?id=1644835049">[Facebook]</a> <a href="mailto:agar.pragy@gmail.com">[email]</a></p></div>
-            <div class = "tabular"><p>Special Thanks to:<br/>Arjun Suresh, Shyam Singh</p></div>
-        </div>
+
     </div>
     
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>

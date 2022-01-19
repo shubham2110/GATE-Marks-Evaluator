@@ -1,7 +1,7 @@
 function about(){
-	var author = "Pragy Agarwal (agar.pragy@gmail.com)";
-	var special_thanks = "Shyam Singh, Arjun Suresh";
-	var source = "https://github.com/AgarwalPragy/GATE2016_MarksEvaluator";
+	var author = "";
+	var special_thanks = "";
+	var source = "";
 	// For easily verifying currently cached version
 	var version = "improve-estimate-rank";
 }

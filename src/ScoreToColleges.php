@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" name="viewport" content="IE=edge, width=device-width, initial-scale=1">
-	<title>Which College can I get? | GATE 2016 | Gateoverflow.in</title>
+	<title>Which College can I get? | GATE 2021 | My Website</title>
 
 	<link rel="stylesheet" href="bootstrap-custom-theme/dark/dark-min.css">
 	<link rel="stylesheet" type="text/css" href="bootstrap-custom-theme/ring.css">
@@ -105,24 +105,6 @@
 
 	<hr />
 
-
-	<div id="footer" class="row">
-		<div id="credits-section" class="text-muted">
-			<div class="col-sm-4 col-xs-12">
-				<div><strong>Code</strong></div>
-				<a href="https://github.com/AgarwalPragy/GATE2016_MarksEvaluator">[Github]</a>
-			</div>
-			<div class="col-sm-4 col-xs-12">
-				<div><strong>Author: Pragy Agarwal</strong></div>
-				<a href="https://www.facebook.com/profile.php?id=1644835049">[Facebook]</a>
-				<a href="mailto:agar.pragy@gmail.com">[Email]</a>
-			</div>
-			<div class="col-sm-4 col-xs-12">
-				<div><strong>Special Thanks:</strong></div>
-				<div><strong>Arjun Suresh, Shyam Singh</strong></div>
-			</div>
-		</div>
-	</div>
 
 </div>
 
